@@ -36,6 +36,7 @@ body {background-color:#a700e9}
         text-decoration: underline none;
     }
     link{
+        
     }
 
 
@@ -87,7 +88,7 @@ body {background-color:#a700e9}
     margin-top: 10px;
     /*estilo de los botones*/
    }
-   
+
    .boton:hover{
     background-color: rgb(9, 170, 31);
 
